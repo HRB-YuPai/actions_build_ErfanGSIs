@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://miui-1257220649.cos-website.ap-chengdu.myqcloud.com/system.zip
+  ROM_URL: https://sysupwsdl.vivo.com.cn/upgrade/upload/UpdateFiles/20201215073327bbcb7082271631abb20e994c8a02cb86.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
